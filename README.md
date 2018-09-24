@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title> Dining Deals </title>
-  </head>
-  <body>
-    
-    
-    
-  </body>  
+<head>
+  <title> Dinign Deals </title>
+</head>
+<body>
+  <p> Hello </p>
+</body>
 </html>
